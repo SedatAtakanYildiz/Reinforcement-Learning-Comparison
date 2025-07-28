@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+Acrobot-v1,-88.218,15.082522202867796,2294.8270194530487,0.81,-68.0,-166.0

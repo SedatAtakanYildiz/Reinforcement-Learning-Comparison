@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+Blackjack-v1,-0.056,0.9427958421630845,1067.574429512024,0.418,1.0,-1.0

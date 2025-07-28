@@ -1,0 +1,17 @@
+Environment,Algorithm,MeanReward,StdReward,TrainTime,SuccessRate,MaxReward,MinReward
+Acrobot-v1,PPO,-65.62,9.63,1130.92,99.2,-61.0,-178.0
+Acrobot-v1,DQN,-88.22,15.08,2294.83,81.0,-68.0,-166.0
+Blackjack-v1,PPO,-0.056,0.9428,1067.57,41.8,1.0,-1.0
+Blackjack-v1,DQN,-0.01,0.9455,2340.66,44.2,1.0,-1.0
+CartPole-v1,PPO,500.0,0.0,900.33,100.0,500.0,500.0
+CartPole-v1,DQN,148.23,7.1,1998.01,0.0,160.0,23.0
+CliffWalking-v0,PPO,-13.0,0.0,968.94,100.0,-13.0,-13.0
+CliffWalking-v0,DQN,-13.0,0.0,2217.13,100.0,-13.0,-13.0
+FrozenLake-v1,PPO,0.734,0.4419,861.97,73.4,1.0,0.0
+FrozenLake-v1,DQN,0.756,0.4295,2149.35,75.6,1.0,0.0
+LunarLander-v3,PPO,240.31,72.13,1007.19,87.4,322.67,-57.71
+LunarLander-v3,DQN,239.01,66.2,2128.51,78.6,316.7,4.29
+MountainCar-v0,PPO,-101.66,10.25,1062.47,84.2,-83.0,-114.0
+MountainCar-v0,DQN,-200.0,0.0,2215.81,0.0,-200.0,-200.0
+Taxi-v3,PPO,-200.0,0.0,1729.55,0.0,-200.0,-200.0
+Taxi-v3,DQN,7.84,2.49,2753.76,69.0,15.0,3.0

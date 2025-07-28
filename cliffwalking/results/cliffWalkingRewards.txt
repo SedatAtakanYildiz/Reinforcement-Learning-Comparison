@@ -1,0 +1,15 @@
+ppo:
+Eğitim süresi: 968.94 saniye
+Ortalama Ödül: -13.00
+Standart Sapma: 0.00
+En İyi Ödül: -13
+En Kötü Ödül: -13
+Başarı Oranı (>= -100): 100.00%
+
+dqn:
+Eğitim süresi: 2217.13 saniye
+Ortalama Ödül: -13.00
+Standart Sapma: 0.00
+En İyi Ödül: -13
+En Kötü Ödül: -13
+Başarı Oranı (>= -100): 100.00%

@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+Taxi-v3,7.842,2.4925962368582684,2753.764454603195,0.69,15,3

@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+LunarLander-v3,239.00721390731516,66.19645716012798,2128.5069439411163,0.786,316.703163405041,4.294968206406281

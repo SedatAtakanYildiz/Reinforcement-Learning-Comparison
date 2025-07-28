@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+CartPole-v1,148.232,7.09719493884732,1998.0103766918182,0.0,160.0,23.0

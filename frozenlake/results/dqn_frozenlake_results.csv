@@ -1,0 +1,2 @@
+env_id,mean_reward,std_reward,training_time,success_rate,max_reward,min_reward
+FrozenLake-v1,0.756,0.42949272403615874,2149.3490538597107,0.756,1.0,0.0
